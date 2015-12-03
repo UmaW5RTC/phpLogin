@@ -1,5 +1,9 @@
 # phpLogin
 created the database by referring the code, Any querry sounds send me message
+
+
+
+
 1.Clone the repository.
 2.place it into htdoc if you are using XAMPP/ at www folder if you are using linux apache.
 3.http://localhost/phpLogin
