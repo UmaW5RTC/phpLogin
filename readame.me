@@ -1,0 +1,10 @@
+# phpLogin
+created the database by referring the code, Any querry sounds send me message
+1.Clone the repository.
+2.place it into htdoc if you are using XAMPP/ at www folder if you are using linux apache.
+3.http://localhost/phpLogin
+4. create database to set up the database and table.
+
+
+  if any problem let me know i will update instruction about how to update the database and table. Good programmers will never ask. new guys are welcome for
+  discussion.
